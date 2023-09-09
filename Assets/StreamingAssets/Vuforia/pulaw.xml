@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Sunda" size="1.000000 1.000000" />
+    <ImageTarget name="JawaTengah" size="1.000000 1.000000" />
+    <ImageTarget name="Banten" size="1.000000 1.000000" />
+    <ImageTarget name="Minang" size="1.000000 1.000000" />
+    <ImageTarget name="Aceh" size="1.000000 1.000000" />
+    <ImageTarget name="KalimantanTengah" size="1.000000 1.000000" />
+    <ImageTarget name="KalimantanSelatan" size="1.000000 1.000000" />
+    <ImageTarget name="PapuaTengah" size="1.000000 1.000000" />
+    <ImageTarget name="PapuaBarat" size="1.000000 1.000000" />
+    <ImageTarget name="Makassar" size="1.000000 1.000000" />
+    <ImageTarget name="Manado" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
